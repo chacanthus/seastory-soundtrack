@@ -1,5 +1,5 @@
 # seastory-soundtrack
-Soundtack of Seastory (seaweed-styled slot game in South Korea)
+Soundtrack of Seastory (seaweed-styled slot game in South Korea)
 
 # Korean
 도박중독 예방 캠페인
